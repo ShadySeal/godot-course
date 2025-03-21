@@ -1,0 +1,6 @@
+[gd_resource type="CanvasTexture" load_steps=2 format=3 uid="uid://5y03u8xrw07c"]
+
+[ext_resource type="Texture2D" uid="uid://d0a7q55oegknr" path="res://Sprites/tile_set.png" id="1_eg1ck"]
+
+[resource]
+diffuse_texture = ExtResource("1_eg1ck")
