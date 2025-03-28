@@ -1,0 +1,10 @@
+[gd_resource type="CanvasTexture" load_steps=4 format=3 uid="uid://te7becm6r0ee"]
+
+[ext_resource type="Texture2D" uid="uid://nkm0mefjeep" path="res://Hahmo/hahmo_hyppy_alas_sprite.png" id="1_1rjf5"]
+[ext_resource type="Texture2D" uid="uid://b3e2n1i33yi0o" path="res://Hahmo/hahmo_hyppy_alas_sprite_n.png" id="2_xtm52"]
+[ext_resource type="Texture2D" uid="uid://dlgwjk6rbt4s4" path="res://Hahmo/hahmo_hyppy_alas_sprite_s.png" id="3_ixwel"]
+
+[resource]
+diffuse_texture = ExtResource("1_1rjf5")
+normal_texture = ExtResource("2_xtm52")
+specular_texture = ExtResource("3_ixwel")

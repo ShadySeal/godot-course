@@ -1,0 +1,10 @@
+[gd_resource type="CanvasTexture" load_steps=4 format=3 uid="uid://b75fgueamauki"]
+
+[ext_resource type="Texture2D" uid="uid://b5tewjwlko6hv" path="res://Hahmo/hahmo_hyppy_ilmassa.png" id="1_c882r"]
+[ext_resource type="Texture2D" uid="uid://bqtcaax51xxk0" path="res://Hahmo/hahmo_hyppy_ilmassa_n.png" id="2_n7uo5"]
+[ext_resource type="Texture2D" uid="uid://c68ns6x4gx7bs" path="res://Hahmo/hahmo_hyppy_ilmassa_s.png" id="3_e1lf1"]
+
+[resource]
+diffuse_texture = ExtResource("1_c882r")
+normal_texture = ExtResource("2_n7uo5")
+specular_texture = ExtResource("3_e1lf1")
